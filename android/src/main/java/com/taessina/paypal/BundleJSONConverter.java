@@ -18,7 +18,7 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-package com.facebook.internal;
+package com.taessina.paypal
 
 import android.os.Bundle;
 import org.json.JSONArray;
